@@ -1,6 +1,6 @@
 # projeto-marvel
 
-> Um projeto React para listar personagem da Marvel API
+> Um projeto React para listar personagens da Marvel API
 
 ## Apresentação
 
