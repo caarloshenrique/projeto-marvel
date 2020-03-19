@@ -12,4 +12,4 @@ mongoose.connect("mongodb://localhost:27017/marveldb", {
 
 server.use(routes);
 
-server.listen(3333);
+server.listen(3000);
