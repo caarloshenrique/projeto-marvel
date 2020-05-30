@@ -12,8 +12,8 @@ O projeto foi feito utilizando as seguintes tecnologias:
 
 - [NodeJS](https://nodejs.org/en/)
 - [ExpressJS](https://expressjs.com/pt-br/)
-- [Axios](https://github.com/axios/axios)
 - [ReacJS](https://reactjs.org/)
+- [Styled-Components](https://styled-components.com/)
 {...}
 
 ## :page_facing_up: Licença 
