@@ -1,12 +1,20 @@
 # projeto-marvel
-
 > Um projeto React para listar personagens da Marvel API
 
 ## Apresentação
-
 <p align="center">
   <img src="/marvel-app/public/img/marvel-app.png">
 </p>
+
+## :rocket: Tecnologias utilizadas 
+
+O projeto foi feito utilizando as seguintes tecnologias:
+
+- [NodeJS](https://nodejs.org/en/)
+- [ExpressJS](https://expressjs.com/pt-br/)
+- [Axios](https://github.com/axios/axios)
+- [ReacJS](https://reactjs.org/)
+{...}
 
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
