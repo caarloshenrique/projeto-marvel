@@ -22,11 +22,23 @@ O projeto foi feito utilizando as seguintes tecnologias:
 #### Configuração
 ```
 $ cd marvel-api
-$ npm install
+$ yarn
 ```
 #### Execução
 ```
-$ npm run dev
+$ yarn dev
+```
+
+### :cyclone: Front-end
+#### Configuração
+
+```
+$ cd marvel-app
+$ yarn
+```
+#### Execução
+```
+$ yarn start
 ```
 
 ## :page_facing_up: Licença 
